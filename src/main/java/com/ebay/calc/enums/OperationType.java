@@ -5,5 +5,5 @@ public enum OperationType {
     SUBTRACT,
     MULTIPLY,
     DIVIDE,
-    MODULO //Added but not used - just to write test cases
+    MODULO //Added just to show UnsupportedOperationException
 }
